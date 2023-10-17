@@ -1,0 +1,44 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore database files
+db.sqlite3
+
+# Ignore system files and directories
+*.swp
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore media and static files (if served separately)
+/media/
+/static/
+
+# Ignore uploaded files
+uploads/
+
+# Ignore configuration and secret files
+*.ini
+*.conf
+*.env
+*.secret
+
+# Ignore database backups
+*.backup
+
+## Ignore env folders
+/venv/
+/env/
+
+
+# IntelliJ IDEA files
+/.idea/
