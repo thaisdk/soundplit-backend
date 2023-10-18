@@ -4,3 +4,4 @@ djangorestframework
 assemblyai
 pydub
 dj_database_url
+gunicorn
