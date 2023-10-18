@@ -2,6 +2,7 @@ Django
 django-environ
 djangorestframework
 assemblyai
+djoser
 pydub
 dj_database_url
 gunicorn
