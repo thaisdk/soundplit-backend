@@ -31,7 +31,7 @@ SECRET_KEY = env.str("SECRET_KEY", "not-very-random")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env('DEBUG')
 
-ALLOWED_HOSTS = ["https://soundplit.onrender.com"]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
